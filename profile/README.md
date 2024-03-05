@@ -1,2 +1,1 @@
-# factorio-ts
-> Harness the power of Typescript to make Factorio mods.
+![img](https://raw.githubusercontent.com/factorio-ts/.github/main/profile/branding.png)
